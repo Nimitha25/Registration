@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Nimitha Reddy
+Build-Jdk: 14.0.2
+Implementation-Title: RegistrationModule
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.techjava
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/RegistrationMo
+ dule/
+Created-By: Maven Integration for Eclipse
+
